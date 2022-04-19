@@ -283,3 +283,17 @@ ul {
         margin-top: 10rem;
     }
 }
+
+/* Youtube */
+.main-yt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.main-yt a {
+    border: 3px solid #363062;
+    padding: 0.5rem;
+}
